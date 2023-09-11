@@ -1,3 +1,3 @@
-module frontendmasters.com/go/io
+module frontendmasters.com/go/calc
 
 go 1.21.1
